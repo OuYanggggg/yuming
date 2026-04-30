@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 // =========================================================================
 // 设置您的域名到期时间 (Set your domain expiration date here)
 // 格式/Format: YYYY-MM-DDT00:00:00+08:00 (根据您的时区进行修改)
-const targetDate = new Date("2026-12-31T00:00:00+08:00"); 
+const targetDate = new Date("2026-06-18T00:00:00+08:00"); 
 
 // 文案配置方案 (Copywriting Plans)
 const TEXT_PLANS = {
@@ -138,7 +138,7 @@ export default function CountdownPage() {
         </AnimatePresence>
 
         <footer className="mt-16 text-white/20 text-[10px] tracking-widest uppercase">
-          <p>domain: memory-archive.me</p>
+          <p>domain: cxx0317.com</p>
         </footer>
       </motion.div>
     </main>
