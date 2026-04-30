@@ -1,0 +1,6 @@
+{
+  "name": "Memory Countdown",
+  "description": "A minimalist, ceremonial countdown timer for a domain expiration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
